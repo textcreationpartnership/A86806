@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the knights, iustices of the peace, gentlemen, ministers, free-holders and others of the countie of Cornwall. Being, the true copie of the agrievances of the said whole countie, as it was delivered April the 22. 1642. (to the House of Commons) by some thereunto appointed. H. Elsynge, Cler. Parl. D. Com.</title>
+            <title>Humble petition of the knights, justices of the peace, gentlemen, ministers, free-holders and others of the countie of Cornwall.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86806</idno><idno type="EEBO-CITATION">99871761</idno>
+  <idno type="VID">156610</idno>
+  <idno type="EEBO-PROQUEST">2240940495</idno>
+  
+            <idno type="STC">Wing H3530</idno>
+            <idno type="STC">Thomason E143_19</idno>
+            <idno type="STC">ESTC R22469</idno>
+            <idno type="PROQUEST">99871761</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871761e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86806)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156610)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E143[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the knights, iustices of the peace, gentlemen, ministers, free-holders and others of the countie of Cornwall. Being, the true copie of the agrievances of the said whole countie, as it was delivered April the 22. 1642. (to the House of Commons) by some thereunto appointed. H. Elsynge, Cler. Parl. D. Com.</title>
+                  <title>Humble petition of the knights, justices of the peace, gentlemen, ministers, free-holders and others of the countie of Cornwall.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.O. and G.D. for John Bartlet, and are to be sold at his Shop in Pauls-Church-yard, at the Signe of the gilded Cup,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A Puritan petition.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons.</term>
+               <term type="geographic_name">Cornwall (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156610:1"/>
+            <p>
+               <hi>The Humble</hi> PETITION OF THE KNIGHTS, IVSTICES of the <hi>Peace, Gentlemen, Ministers, Free-holders</hi> and others of the <hi>Countie</hi> of CORNWALL.</p>
+            <p>BEING, The true <hi>Copie</hi> of the agrievances of the said whole <hi>Countie,</hi> as it was delivered <hi>April</hi> the 22. 1642. (to the House of Commons) by some thereunto appointed.</p>
+            <p>H. Elsynge, Cler. Parl. D. Com.</p>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>R. O.</hi> and <hi>G. D.</hi> for JOHN BARTLET, and are to be sold at his Shop in <hi>Pauls-Church-yard,</hi> at the Signe of the <hi>gilded Cup.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:156610:2"/>
+            <pb n="1" facs="tcp:156610:2"/>
+            <head>
+               <hi>To the</hi> HONOURABLE THE KNIGHTS, CITIZENS, and BVRGESSES of the <hi>House</hi> of <hi>Commons,</hi> now assembled in PARLIAMENT.</head>
+            <head type="sub">The humble Petition of the Knights, Iustices of the Peace, Gentlemen, Ministers, Free-holders and others of the County of <hi>CORNWALL.</hi>
+            </head>
+            <opener>Humbly Sheweth;</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat they heartily thanke God, and You, for your unwearied paines and Courage for them in those dangers wherewith you have beene encom<g ref="char:EOLhyphen"/>passed; and in that you have minded nothing in all your Consultations and endeavours, but Gods glory, his <hi>Majesties</hi> honour and safety, and the Kingdomes good; your standing for the
+<pb n="2" facs="tcp:156610:3"/>Rights and <hi>Priviledges</hi> of PARLIAMENT, for the defence and maintainance of which your <hi>Petitio<g ref="char:EOLhyphen"/>ners</hi> will never leave you in all just and lawfull wayes: But with their Lives and Fortunes (accor<g ref="char:EOLhyphen"/>ding to the PROTESTATION which they have lately made and subscribed unto) will defend you.</p>
+            <p>
+               <hi>And yet they further pray;</hi>
+               <lb/> THat such Ceremonies and <hi>Church-Service</hi> as are now in use (not warrantable by GODS Word) and pressing much on the Consciences of many honest learned and pious Persons) may be a<g ref="char:EOLhyphen"/>bolished. That every Parish may be furnished with a godly, able and laborious Minister; and fit main<g ref="char:EOLhyphen"/>tenance (especially in <hi>Impropriations</hi>) where there is not now, a <hi>Compitence</hi> may be provided for them. That they may be freed and the <hi>Church</hi> purged from those Ministers that are unlearned, scandalous or vitious (wherein their COUNTIE amongst others) suffer. That you would establish such a <hi>Government</hi> in the <hi>Church</hi> as is most agreeable to Gods Word; And that the <hi>Statutes</hi> of <hi>primo</hi> and <hi>tertio</hi> of his <hi>Ma<g ref="char:EOLhyphen"/>jesties</hi> Reigne made against the prophanation of the <hi>Sabbath</hi> or <hi>Lords</hi> day, by Sports and Pastimes and Carriages of common Carriers may bee in larged and declared to extend to all manner of Persons as<g ref="char:EOLhyphen"/>well as common Carriers: And to all sports and pastimes to be used aswell by the Inhabitants with<g ref="char:EOLhyphen"/>in their Parishes as without. That a speedy and power full reliefe may be sent into <hi>Ireland,</hi> and none imployed in that service by Land or Sea, which are either Papists or Popishly affected. That by your
+<pb n="3" facs="tcp:156610:3"/>intercession evill Counsellors and Servants may be removed from the King Queeene and Prince. That our Duke (the Illustrious Prince) may be so educa<g ref="char:EOLhyphen"/>ted, by such as are sound in Religion, vertuous in their lives, and well affected to <hi>Parliaments.</hi>
+            </p>
+            <p>That the Coast of <hi>Ireland</hi> may be so garded, that no aide may be brought to the <hi>Rebells.</hi> That their Countie which is in greatest danger (being almost surrounded with the Sea) and remotest from suc<g ref="char:EOLhyphen"/>cour, may be put into a Posture of Defence, that Captaines of knowne fidelity, and soundnesse in <hi>Religion</hi> may command their trained Bands; that their Armes may be speedily viewed, and all war<g ref="char:EOLhyphen"/>like Provision, (especially Gunpowder, of which there is a generall want in their Countie) be forth<g ref="char:EOLhyphen"/>with provided. That their Watch-Houses, Bul<g ref="char:EOLhyphen"/>workes, and Beacons (now in much decay) may (without delay) bee repaired; That the Castle of <hi>Penderines</hi> which is decayed in some of the works, and fortifications, and hath some other works long since begun, but never perfected, may be taken into your serious considerations. That the Castle of St. <hi>Mawes</hi> is extremely decayed in Plat<g ref="char:EOLhyphen"/>formes, and Carriages, wants Ordnance, and hath divers unserviceable, is not furnished with any sort of <hi>Ammunition,</hi> may bee speedily amended, and supplied, and put into trustie hands, (both which Castles stand in the mouth of the River of <hi>Falmouth,</hi> and of the best Harbours of this <hi>King<g ref="char:EOLhyphen"/>dome</hi>) and are places of great Importance; They further present the Harbours of <hi>Foye,</hi> and <hi>Helford,</hi>
+               <pb n="4" facs="tcp:156610:4"/>(very good Harbours) as fit to bee fortified, and may be put into trustie hands. That the probates of Testaments, (being a meere temporall thing may be made before Lay-men. That <hi>Tythes</hi> being of the same nature may if unjustly detained, bee recove<g ref="char:EOLhyphen"/>red by Action in the <hi>Kings</hi> Courts; That the <hi>Dutch</hi> may have libertie to victuall in the Ports of their <hi>County</hi> (by who<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e restraint in latter times) much damage hath accrewed to their <hi>County.</hi> That no Popish <hi>Lords</hi> may have their <hi>Votes</hi> in the <hi>House</hi> of <hi>Peeres;</hi> That all Papists may bee secured in the <hi>Counties</hi> where they dwell: That the Courts of <hi>Wards,</hi> and <hi>Liveries</hi> (being as it hath beene used, one of the greatest grievances of this <hi>Kingdome</hi>) may be taken away, that thereby the <hi>Revenew</hi> of the <hi>Crowne</hi> may not be impaired, but a yearely <hi>Rent</hi> answer<g ref="char:EOLhyphen"/>able to the full profits thereof, payable out of such Lands as are held of his <hi>Majesty,</hi> either in <hi>Capite,</hi> or <hi>Knights</hi> service, may be advanced, and for ever in<g ref="char:EOLhyphen"/>vested in the <hi>Crowne,</hi> and a like proportion allow<g ref="char:EOLhyphen"/>ed to every meane <hi>Lord,</hi> to bee paid by such free Tenants as hold of him in <hi>Knights</hi> service. That the Fees of the <hi>Exchequer</hi> may be mittigated, and a<g ref="char:EOLhyphen"/>certained for the <hi>Sherriffes,</hi> passing of their Ac<g ref="char:EOLhyphen"/>counts, which have bin raised to such high rates, as have undon many <hi>under-Sheriffes,</hi> and bin a great burden to the high <hi>Sheriffes;</hi> They humbly pray that consideration may be had of the extraordinary Levies of men to serve in his <hi>Majesties</hi> service, and likewise for the contribution of monies, far above the proportion of other <hi>Counties,</hi> that a due pro<g ref="char:EOLhyphen"/>portion
+<pb n="5" facs="tcp:156610:4"/>may bee had for the future, for the ease of their <hi>Countie.</hi>
+            </p>
+            <p>They doe likewise humbly pray for a <hi>Review</hi> of an <hi>Act</hi> made this <hi>Parliament,</hi> for the regulating of the <hi>Stanneries,</hi> that Owners of <hi>Tynneworks, Ad<g ref="char:EOLhyphen"/>venturers,</hi> and other <hi>Tynners</hi> may be heard in their humble Petition for the preservation of their just <hi>Priviledges</hi> and <hi>Liberties,</hi> and they shall be rea<g ref="char:EOLhyphen"/>die in all lawfull occasions, to obey the Commands of this Honourable <hi>House.</hi>
+            </p>
+            <closer>
+               <signed>And daily pray, &amp;c.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
